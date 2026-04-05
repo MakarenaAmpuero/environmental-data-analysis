@@ -1,9 +1,16 @@
-Project,Permit,Status,Deadline,Region
-Solar Plant A,RCA,Compliant,2025-06-01,Metropolitana
-Wind Farm B,Emission Permit,Non-Compliant,2025-04-15,Biob�o
-Hydro Plant C,Water Permit,Compliant,2025-08-20,Los Lagos
-Solar Plant D,RCA,Delayed,2025-03-10,Atacama
-Wind Farm E,Emission Permit,Compliant,2025-07-30,Coquimbo
-Solar Plant F,RCA,Non-Compliant,2025-02-28,Valpara�so
-Wind Farm G,Emission Permit,Delayed,2025-01-15,�uble
-Hydro Plant H,Water Permit,Compliant,2025-09-10,Ays�n
+﻿Project,Permit,Status,Deadline,Region,Company,Capacity_MW
+Solar Plant A,RCA,Compliant,2025-06-01,Metropolitana,Enel,120
+Wind Farm B,Emission Permit,Non-Compliant,2025-04-15,Biobío,Colbún,200
+Hydro Plant C,Water Permit,Compliant,2025-08-20,Los Lagos,Endesa,350
+Solar Plant D,RCA,Delayed,2025-03-10,Atacama,Acciona,95
+Wind Farm E,Emission Permit,Compliant,2025-07-30,Coquimbo,Mainstream,180
+Solar Plant F,RCA,Non-Compliant,2025-02-28,Valparaíso,Enel,130
+Wind Farm G,Emission Permit,Delayed,2025-01-15,Ñuble,Colbún,220
+Hydro Plant H,Water Permit,Compliant,2025-09-10,Aysén,Endesa,400
+Solar Plant I,RCA,Compliant,2025-10-05,Antofagasta,Acciona,110
+Wind Farm J,Emission Permit,Delayed,2025-05-18,La Araucanía,Mainstream,210
+Hydro Plant K,Water Permit,Non-Compliant,2025-06-22,Los Ríos,Endesa,370
+Solar Plant L,RCA,Compliant,2025-11-11,Coquimbo,Enel,140
+Wind Farm M,Emission Permit,Compliant,2025-12-01,Biobío,Colbún,190
+Hydro Plant N,Water Permit,Delayed,2025-04-02,Maule,Endesa,360
+Solar Plant O,RCA,Non-Compliant,2025-03-25,Atacama,Acciona,100
