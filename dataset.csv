@@ -1,0 +1,9 @@
+Project,Permit,Status,Deadline,Region
+Solar Plant A,RCA,Compliant,2025-06-01,Metropolitana
+Wind Farm B,Emission Permit,Non-Compliant,2025-04-15,Biobío
+Hydro Plant C,Water Permit,Compliant,2025-08-20,Los Lagos
+Solar Plant D,RCA,Delayed,2025-03-10,Atacama
+Wind Farm E,Emission Permit,Compliant,2025-07-30,Coquimbo
+Solar Plant F,RCA,Non-Compliant,2025-02-28,Valparaíso
+Wind Farm G,Emission Permit,Delayed,2025-01-15,Ñuble
+Hydro Plant H,Water Permit,Compliant,2025-09-10,Aysén
