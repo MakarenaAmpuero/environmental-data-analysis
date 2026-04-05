@@ -1,28 +1,50 @@
-# environmental-data-analysis
-# Environmental Compliance Data Analysis
+# Environmental Project Compliance Dashboard
 
-## Description
-This project analyzes environmental compliance data from energy projects to identify patterns, delays, and non-compliance.
+## Overview
+This project analyzes environmental projects in Chile, focusing on compliance status and geographic distribution. The dashboard provides a clear and interactive overview to support data-driven insights.
 
-## Objective
-To improve decision-making through data analysis and better organization of environmental information.
+## Objectives
+- Analyze project compliance
+- Identify delays and non-compliance
+- Visualize geographic distribution of projects
 
-## Tools Used
-- Excel / Python
-- Data analysis techniques
+## Dataset
+The dataset used in this project is synthetic and created for educational purposes.
 
-## Analysis Performed
-- Compliance status distribution
-- Identification of delayed projects
-- Regional analysis
+**Variables included:**
+- Project  
+- Status  
+- Region  
+- Permit Type  
+- Company  
+
+**Total projects:** 15
+
+## Tools & Technologies
+- Power BI  
+- Excel / CSV dataset  
+- Data modeling using DAX  
+
+## Key Metrics
+- Total Projects: 15  
+- Compliance Rate: 46.67%  
+- Delayed Projects: 4  
+- Non-Compliant Projects: 4  
+
+## Dashboard
+![Dashboard](dashboard.png)
 
 ## Key Insights
-- Some projects show delays in environmental compliance
-- Non-compliance can be identified early through structured data
-- Regional differences may impact project performance
+- Compliance is below 50%, indicating potential regulatory challenges  
+- Delayed and non-compliant projects represent a significant portion  
+- Certain regions show higher concentration of issues  
 
-## Conclusion
-This project demonstrates how data analysis can support environmental management and improve efficiency in project monitoring.
+## Future Improvements
+- Expand dataset with more projects  
+- Include additional variables (cost, timeline, environmental impact)  
+- Apply advanced analytics and forecasting techniques  
+
+
 
 ## Author
 Makarena Ampuero
