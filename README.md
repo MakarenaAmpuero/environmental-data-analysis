@@ -31,9 +31,6 @@ The dataset used in this project is synthetic and created for educational purpos
 - Delayed Projects: 4  
 - Non-Compliant Projects: 4  
 
-## Dashboard
-![Dashboard](dashboard.png)
-
 ## Key Insights
 - Compliance is below 50%, indicating potential regulatory challenges  
 - Delayed and non-compliant projects represent a significant portion  
